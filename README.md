@@ -37,9 +37,9 @@ The user should be able to:
 
 # Links
 ## Application Page
-- [application](https://nhounhou.github.io/employee-directory/)
+- [application](https://github.com/nhounhou/employee-directory)
 ## Heroku Deployement
 - [heroku](https://https://employee-derectory.herokuapp.com/)
 
 # Video
-![video](./public/assets/image/animation.gif)
+![video](/public/assets/image/animation.gif)
