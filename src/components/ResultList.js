@@ -2,7 +2,7 @@ import React from "react";
 
 function ResultList(props) {
   return (
-    <table className="list-group t1">
+    <table>
       <tr>
         <th>Picture</th>
         <th><button onClick={props.handleSortFirst} className='btn btn-outline-primary'>First Name</button></th>

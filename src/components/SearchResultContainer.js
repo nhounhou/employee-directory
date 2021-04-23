@@ -61,7 +61,7 @@ class SearchResultContainer extends Component {
     }
 
     return function (a,b) {
-        if(sortOrder == -1){
+        if(sortOrder === -1){
             return b.name[property].localeCompare(a.name[property]);
         }else{
             return a.name[property].localeCompare(b.name[property]);
